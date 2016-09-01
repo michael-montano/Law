@@ -6,3 +6,7 @@
  * statutory,
  * regulatory, and
  * judicial.
+* Other documents emanating from government may also have the effect of creating rules of decision but are not law, strictly speaking. These are principally:
+ * legal opinion letters and
+ * policies.
+* So-called "secret law" is an oxymoron.
